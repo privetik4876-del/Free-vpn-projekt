@@ -9,5 +9,5 @@ Free vpn
 * **Сервер:** Ubuntu 22.04
 * **Метод:** Скрипт автоматической установки
 
-### 🚀 Статус:
+### 🚀 Статус:wget -O wireguard.sh https://get.vpnsetup.net/wg && sudo bash wireguard.sh
 В процессе настройки серверов.
